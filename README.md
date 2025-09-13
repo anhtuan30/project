@@ -1,2 +1,2 @@
-# Code PITI
+# Code PTIT
 Code PTIT github
